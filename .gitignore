@@ -1,0 +1,6 @@
+dummy/
+__pychache__/
+venv_package/
+pytest_cache/
+mlruns/
+.DS_store
